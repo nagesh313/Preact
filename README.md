@@ -1,2 +1,0 @@
-# Preact
-Created with CodeSandbox

@@ -1,0 +1,11 @@
+{
+  "name": "xj12q5m4wq",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "preact-compat": "3.17.0",
+    "preact": "8.2.5"
+  }
+}
